@@ -37,8 +37,6 @@
         
 </div>
   
-  
   ![snake gif](https://github.com/mazzaro1/mazzaro1/blob/output/github-contribution-grid-snake.svg)
 
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=200&section=footer" />
+  img src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=200&section=footer" />
