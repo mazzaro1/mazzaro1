@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://beacons.ai/mazzaro1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazzaro1&show_icons=true&theme=github_dark&hide_border&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazzaro1&layout=compact&langs_count=16&theme=github_dark&hide_border"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazzaro1&show_icons=true&theme=maroongold&hide_border&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazzaro1&layout=compact&langs_count=16&theme=maroongold&hide_border"/>
 </div>  
   
   ## <b>Skills 👌</b> 
@@ -16,8 +16,6 @@
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="right" alt="Felmateos-profile-picture" height="150" src="https://i.pinimg.com/originals/a7/f4/e2/a7f4e28cf5cbd24a8130d4d970c8174e.gif">
 </div> 
-    
-    
     
   ## <b>Onde me encontrar </b>
     
