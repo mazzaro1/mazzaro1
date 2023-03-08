@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=270&section=header&fontAlignY=35&text=mazzaro1&desc=JavaScript,%20TypeScript,%20React,%20React-Native%20e%20C%20Sharp&fontSize=90&fontColor=0d1117&fontColor=0d1117" />
 
-
+  ## <b>📊 GitHub Stats</b>
 <div align="center">
   <a href="https://beacons.ai/mazzaro1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazzaro1&show_icons=true&theme=maroongold&hide_border&include_all_commits=true&count_private=true"/>
