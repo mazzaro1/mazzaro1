@@ -8,11 +8,11 @@
   <p>- 😄 Pronouns: ele/dele | he/him </p>
   <p>- 🎸 Hobbies: Play video games, Cinema and Guittar  </p>
   <p>- 💻 Favorite Language: Javascript - C# </p>
-  <p>- 📚 Currently Studying: HTML - CSS - JavaScript - React - React Native    </p>
+  <p>- 📚 Currently Studying: HTML - CSS - JavaScript - React</p>
 </div>
 <br>
 <br>
-  ## <b> GitHub Stats 📊</b>
+  ## <b> GitHub Stats ⚡ </b>
 <br>
 <br>
 
