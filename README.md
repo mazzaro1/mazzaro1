@@ -6,7 +6,7 @@
 
   <p>- 🔭 I'm working as a Support Analyst </p>
   <p>- 😄 Pronouns: ele/dele | he/him </p>
-  <p>- 🎸 Hobbies: Play video games, Cinema and Guittar  </p>
+  <p>- 🎸 Hobbies: Play video games, Cinema and Guitar  </p>
   <p>- 💻 Favorite Language: Javascript - C# </p>
   <p>- 📚 Currently Studying: HTML - CSS - JavaScript - React</p>
 </div>
