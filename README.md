@@ -3,8 +3,8 @@
   ## <b>📊 GitHub Stats</b>
 <div align="center">
   <a href="https://beacons.ai/mazzaro1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazzaro1&show_icons=true&theme=maroongold&hide_border&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazzaro1&layout=compact&langs_count=16&theme=maroongold&hide_border"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazzaro1&show_icons=true&include_all_commits=true&theme=maroongold&hide_border=false" a/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=maroongold&hide_border=false" />
 </div>  
   
   ## <b>Skills 👌</b> 
