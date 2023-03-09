@@ -2,11 +2,11 @@
 
 <div align="left"><br>
   <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
-  
+
   <p>- 🔭 I'm working as a Support Analyst </p>
   <p>- 😄 Pronouns: ele/dele | he/him </p>
   <p>- 🎸 Hobbies: Play video games, Cinema and Guittar  </p>
-  <p>- 👨‍🎓 Learning Web Full Stack at Alura : HTML - CSS - Bootstrap - JavasScript -TypeScript - NodeJS - MongoDB - MySQL - GIT - React - React Native</p>
+  <p>- 👨‍🎓 Learning Web Full Stack at Alura : HTML - CSS - JavasScript -TypeScript - NodeJS - MongoDB - MySQL - GIT - React - React Native</p>
   <p>- 💻 Favorite Language: Javascript - C# </p>
   <p>- 📚 Currently Studying: HTML - CSS - JavaScript - React - React Native    </p>
 </div>
