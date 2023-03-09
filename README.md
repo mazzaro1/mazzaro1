@@ -12,11 +12,8 @@
 </div>
 <br>
 <br>
-<br>
-<br>
-
   ## <b> GitHub Stats 📊</b>
-  <br>
+<br>
 <br>
 
 <div align="center">
@@ -35,7 +32,8 @@
   <img align="right" alt="mazzaro1-profile-picture" height="150" src="https://64.media.tumblr.com/7d715d070a8e475d52741057e7bf5afd/a386074b7aaba57b-68/s540x810/5e52e51efa7c213edc3aa98ff0e2d79c0f17747a.gif">
 </div> 
     
-  ## <b>Onde me encontrar </b>
+  ## <b>Onde me encontrar 🗺</b>
+<br>
     
   <div float="left">
   <a href="https://www.linkedin.com/in/luiz-gustavo-da-cunha-3a9b60187/">
