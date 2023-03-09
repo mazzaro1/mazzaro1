@@ -1,5 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=270&section=header&fontAlignY=35&text=mazzaro1&desc=JavaScript,%20TypeScript,%20React,%20React-Native%20e%20C%20Sharp&fontSize=90&fontColor=0d1117&fontColor=0d1117" />
 
+<div align="left"><br>
+  <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
+  
+  <p>- 🔭 I'm working as a Support Analyst </p>
+  <p>- 😄 Pronouns: ele/dele | he/him </p>
+  <p>- 🎸 Hobbies: Play video games, Cinema and Guittar  </p>
+  <p>- 👨‍🎓 Learning Web Full Stack at Alura : HTML - CSS - Bootstrap - JavasScript -TypeScript - NodeJS - MongoDB - MySQL - GIT - React - React Native</p>
+  <p>- 💻 Favorite Language: Javascript - C# </p>
+  <p>- 📚 Currently Studying: HTML - CSS - JavaScript - React - React Native    </p>
+</div>
+
   ## <b>📊 GitHub Stats</b>
 <div align="center">
   <a href="https://beacons.ai/mazzaro1">
@@ -38,5 +49,6 @@
 
   
 ![Snake animation](https://github.com/mazzaro1/mazzaro1/blob/output/github-contribution-grid-snake.svg)
+![image](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)	
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=200&section=footer" />
