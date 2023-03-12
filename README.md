@@ -3,7 +3,7 @@
   <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
   
   ## <b> About Me 😎 </b>
-
+ 
   <p>- 🔭 I'm working as a Support Analyst </p>
   <p>- 😄 Pronouns: ele/dele | he/him </p>
   <p>- 🎸 Hobbies: Play video games, Cinema and Guitar  </p>
