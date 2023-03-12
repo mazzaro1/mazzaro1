@@ -22,7 +22,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazzaro1&show_icons=true&include_all_commits=true&theme=outrun&hide_border=false" a/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=outrun&hide_border=false" />
 </div>  
-  
+    
   
   ## <b>Skills 👌</b> 
   <div style="display: inline_block"><br>
