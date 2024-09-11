@@ -11,16 +11,6 @@
 </div>
 <br>
 <br> 
-
-  ## <b> GitHub Stats ⚡ </b>
-<br>
-<br>
-
-<div align="center">
-  <a href="https://beacons.ai/mazzaro1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazzaro1&show_icons=true&include_all_commits=true&theme=outrun&hide_border=false" a/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazzaro1&layout=compact&theme=outrun&hide_border=false&hide_progress=true" />
-</div>  
     
   ## <b>Onde me encontrar 🗺</b>
 <br>
